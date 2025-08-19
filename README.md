@@ -1,12 +1,32 @@
-## Hi there 👋
+# 👁️‍🗨️ Web Acessível para Deficientes Visuais
 
-<--👋 Hi! I'm Erick Luiz (aka Brambolo), a student of Systems Analysis and Development, passionate about technology and always curious to understand how things work behind the scenes.
+Este projeto tem como objetivo tornar a web mais **acessível para pessoas com deficiência visual**, utilizando boas práticas de acessibilidade, tecnologias assistivas e recursos interativos que facilitam a navegação.
 
-💻 I'm focused on building a solid foundation in programming, computational logic, data structures, and software development. I’m especially interested in areas like software engineering, databases, and artificial intelligence.
+## 🧠 Motivação
 
-🚀 My goal is to grow as a tech professional by learning continuously, working on practical projects, and exploring different paths within the IT field to find the right specialization for me.
+A internet deve ser para todos. No entanto, muitas pessoas com deficiência visual enfrentam dificuldades ao acessar sites mal estruturados ou que não consideram a acessibilidade desde o início. Este projeto web nasceu com o propósito de **criar uma experiência mais justa, inclusiva e funcional**, garantindo que ninguém fique de fora do mundo digital.
 
-📚 Currently, I'm dedicated to my studies and hands-on learning to keep up with the fast-paced world of technology.
+## 🌐 Tecnologias Utilizadas
 
-Let’s connect and build something great!
--->
+- **HTML5** — Estrutura semântica e acessível
+- **CSS3** — Estilização com suporte a contraste e responsividade
+- **JavaScript** — Funcionalidades interativas e controle de acessibilidade
+- **WAI-ARIA** — Atributos de acessibilidade para leitores de tela
+- **Web Speech API** (opcional) — Reconhecimento e síntese de voz
+- **NVDA / VoiceOver** — Leitores de tela usados nos testes
+
+## 💡 Funcionalidades
+
+- Navegação com teclado (Tab, Enter, Esc, etc.)
+- Compatibilidade com leitores de tela
+- Botão de alto contraste
+- Aumento/redução de fonte
+- Feedback sonoro para ações
+- Comandos de voz (opcional)
+- Elementos com descrição clara e uso de landmarks (banner, nav, main, etc.)
+
+## 🖥️ Como Executar o Projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/Brambolo/web-acessibilidade.git
