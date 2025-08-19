@@ -25,8 +25,26 @@ A internet deve ser para todos. No entanto, muitas pessoas com deficiência visu
 - Comandos de voz (opcional)
 - Elementos com descrição clara e uso de landmarks (banner, nav, main, etc.)
 
-## 🖥️ Como Executar o Projeto
+📁 Estrutura do Projeto
+web-acessibilidade/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── assets/
+│   └── (imagens, áudios, ícones etc.)
+└── README.md
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Brambolo/web-acessibilidade.git
+📌 Próximos Passos
+
+ Implementar leitura automática de conteúdo via Web Speech
+
+ Criar modo de navegação totalmente por voz
+
+ Testar com usuários reais e coletar feedback
+
+ Adicionar suporte a múltiplos idiomas
+
+ 🧑‍💻 Autor
+Erick Luiz – @Brambolo
