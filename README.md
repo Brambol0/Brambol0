@@ -1,4 +1,4 @@
-👋 Hi! I'm Erick Luiz (aka Brambolo), a student of Systems Analysis and Development, passionate about technology and always curious to understand how things work behind the scenes.
+👋 Hi! I'm Erick Luiz or Brambolo, a student of Systems Analysis and Development, passionate about technology and always curious to understand how things work behind the scenes.
 
 💻 I'm focused on building a solid foundation in programming, computational logic, data structures, and software development. I’m especially interested in areas like software engineering, databases, and artificial intelligence.
 
